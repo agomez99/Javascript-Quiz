@@ -1,4 +1,4 @@
-# homework4
+# Javascript Quiz
 This program is a JavaScript quiz for homework 4. 
 It uses a countdown timer and turns digits red under 10 seconds.
 The user answers 5 questions then after the fifth question, the score is displayed.
